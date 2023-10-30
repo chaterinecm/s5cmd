@@ -1,0 +1,1 @@
+s5cmd --no-sign-request --endpoint-url https://storage.googleapis.com run file_manifest_gcs.s5cmd
